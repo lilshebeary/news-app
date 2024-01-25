@@ -4,8 +4,8 @@
   "description": "news app",
   "source": "index.html",
   "scripts": {
-    "start": "parcel --open",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open"
   },
   "keywords": [],
   "author": "beary",
